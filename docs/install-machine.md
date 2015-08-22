@@ -43,7 +43,7 @@ To install on Linux, do the following:
 
 ## Where to go next
 
-* [Docker Machine overview](/)
-* [Docker Machine driver reference](/drivers)
-* [Docker Machine subcommand reference](/reference)
+* [Docker Machine overview](index.md)
+* [Docker Machine driver reference](drivers/index.md)
+* [Docker Machine subcommand reference](reference/index.md)
 

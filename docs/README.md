@@ -1,4 +1,4 @@
-# Contributing to the Docker Compose documentation
+# Contributing to the Docker Machine documentation
 
 The documentation in this directory is part of the [this documentation](docs.docker.com).  Docker uses [the Hugo static generator](http://gohugo.io/overview/introduction/) to convert project Markdown files to a static HTML site. 
 
