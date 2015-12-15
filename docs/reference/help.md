@@ -3,7 +3,7 @@
 title = "help"
 description = "Show command help"
 keywords = ["machine, help, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

@@ -3,7 +3,7 @@
 title = "status"
 description = "Get the status of a machine"
 keywords = ["machine, status, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

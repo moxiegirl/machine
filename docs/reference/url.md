@@ -3,7 +3,7 @@
 title = "url"
 description = "Get the URL of a host"
 keywords = ["machine, url, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

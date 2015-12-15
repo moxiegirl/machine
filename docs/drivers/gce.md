@@ -3,7 +3,7 @@
 title = "Google Compute Engine"
 description = "Google Compute Engine driver for machine"
 keywords = ["machine, Google Compute Engine, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

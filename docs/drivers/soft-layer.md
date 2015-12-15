@@ -3,7 +3,7 @@
 title = "IBM Softlayer"
 description = "IBM Softlayer driver for machine"
 keywords = ["machine, IBM Softlayer, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

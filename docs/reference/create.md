@@ -3,7 +3,7 @@
 title = "create"
 description = "Create a machine."
 keywords = ["machine, create, subcommand"]
-[menu.main]
+[menu.machine]
 identifier="machine.create"
 parent="smn_machine_subcmds"
 +++

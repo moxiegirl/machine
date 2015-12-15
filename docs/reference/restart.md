@@ -3,7 +3,7 @@
 title = "restart"
 description = "Restart a machine"
 keywords = ["machine, restart, subcommand"]
-[menu.main]
+[menu.machine]
 identifier="machine.restart"
 parent="smn_machine_subcmds"
 +++

@@ -3,7 +3,7 @@
 title = "scp"
 description = "Copy files among machines"
 keywords = ["machine, scp, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

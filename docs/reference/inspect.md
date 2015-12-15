@@ -3,7 +3,7 @@
 title = "inspect"
 description = "Inspect information about a machine"
 keywords = ["machine, inspect, subcommand"]
-[menu.main]
+[menu.machine]
 identifier="machine.inspect"
 parent="smn_machine_subcmds"
 +++

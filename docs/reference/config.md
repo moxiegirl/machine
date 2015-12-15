@@ -3,7 +3,7 @@
 title = "config"
 description = "Show client configuration"
 keywords = ["machine, config, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

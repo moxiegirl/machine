@@ -3,7 +3,7 @@
 title = "VMware Fusion"
 description = "VMware Fusion driver for machine"
 keywords = ["machine, VMware Fusion, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

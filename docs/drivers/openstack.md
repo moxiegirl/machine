@@ -3,7 +3,7 @@
 title = "OpenStack"
 description = "OpenStack driver for machine"
 keywords = ["machine, OpenStack, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

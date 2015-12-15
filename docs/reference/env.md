@@ -3,7 +3,7 @@
 title = "env"
 description = "Set environment variables on a machine"
 keywords = ["machine, env, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

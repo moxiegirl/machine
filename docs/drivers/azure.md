@@ -3,7 +3,7 @@
 title = "Microsoft Azure"
 description = "Microsoft Azure driver for machine"
 keywords = ["machine, Microsoft Azure, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

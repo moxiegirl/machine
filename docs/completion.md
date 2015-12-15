@@ -3,8 +3,7 @@
 title = "Command-line Completion"
 description = "Install Machine command-line completion"
 keywords = ["machine, docker, orchestration, cli,  reference"]
-[menu.main]
-parent="smn_workw_machine"
+[menu.machine]
 weight=10
 +++
 <![end-metadata]-->

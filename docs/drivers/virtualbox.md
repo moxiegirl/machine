@@ -3,7 +3,7 @@
 title = "Oracle VirtualBox"
 description = "Oracle VirtualBox driver for machine"
 keywords = ["machine, Oracle VirtualBox, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

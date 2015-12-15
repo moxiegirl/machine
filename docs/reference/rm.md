@@ -3,7 +3,7 @@
 title = "rm"
 description = "Remove a machine."
 keywords = ["machine, rm, subcommand"]
-[menu.main]
+[menu.machine]
 identifier="machine.rm"
 parent="smn_machine_subcmds"
 +++

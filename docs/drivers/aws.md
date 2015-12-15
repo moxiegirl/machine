@@ -3,7 +3,7 @@
 title = "Amazon Web Services"
 description = "Amazon Web Services driver for machine"
 keywords = ["machine, Amazon Web Services, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

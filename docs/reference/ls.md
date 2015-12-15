@@ -3,7 +3,7 @@
 title = "ls"
 description = "List machines"
 keywords = ["machine, ls, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

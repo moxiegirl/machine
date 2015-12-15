@@ -3,8 +3,7 @@
 title = "Using Docker Machine with a cloud provider"
 description = "Using Docker Machine with a cloud provider"
 keywords = ["docker, machine, amazonec2, azure, digitalocean, google, openstack, rackspace, softlayer, virtualbox, vmwarefusion, vmwarevcloudair, vmwarevsphere, exoscale"]
-[menu.main]
-parent="smn_workw_machine"
+[menu.machine]
 weight=2
 +++
 <![end-metadata]-->

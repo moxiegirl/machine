@@ -3,7 +3,7 @@
 title = "Driver options and operating system defaults"
 description = "Identify active machines"
 keywords = ["machine, driver, base, operating system"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 weight=-1
 +++

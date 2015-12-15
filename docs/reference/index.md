@@ -3,9 +3,8 @@
 title = "Subcommands"
 description = "Docker Machine Commands Overview"
 keywords = ["machine, commands"]
-[menu.main]
+[menu.machine]
 identifier="smn_machine_subcmds"
-parent="smn_machine_ref"
 +++
 <![end-metadata]-->
 

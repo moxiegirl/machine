@@ -3,7 +3,7 @@
 title = "active"
 description = "Identify active machines"
 keywords = ["machine, active, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

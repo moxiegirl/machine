@@ -3,7 +3,7 @@
 title = "VMware vCloud Air"
 description = "VMware vCloud Air driver for machine"
 keywords = ["machine, VMware vCloud Air, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

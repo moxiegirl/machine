@@ -3,7 +3,7 @@
 title = "exoscale"
 description = "exoscale driver for machine"
 keywords = ["machine, exoscale, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

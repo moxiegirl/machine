@@ -3,7 +3,7 @@
 title = "kill"
 description = "Kill (abruptly force stop) a machine."
 keywords = ["machine, kill, subcommand"]
-[menu.main]
+[menu.machine]
 identifier="machine.kill"
 parent="smn_machine_subcmds"
 +++

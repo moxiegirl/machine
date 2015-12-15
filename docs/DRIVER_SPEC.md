@@ -4,8 +4,8 @@ draft=true
 title = "Docker Machine"
 description = "machine"
 keywords = ["machine, orchestration, install, installation, docker, documentation"]
-[menu.main]
-parent="mn_install"
+[menu.machine]
+
 +++
 <![end-metadata]-->
 

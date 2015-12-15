@@ -61,8 +61,8 @@ The top of each Docker machine documentation file contains TOML metadata. The me
     title = "Extending services in machine"
     description = "How to use Docker machine's extends keyword to share configuration between files and projects"
     keywords = ["fig, composition, machine, docker, orchestration, documentation, docs"]
-    [menu.main]
-    parent="smn_workw_machine"
+    [menu.machine]
+
     weight=2
     +++
     <![end-metadata]-->  
@@ -73,12 +73,12 @@ The metadata alone has this structure:
     title = "Extending services in machine"
     description = "How to use Docker machine's extends keyword to share configuration between files and projects"
     keywords = ["fig, composition, machine, docker, orchestration, documentation, docs"]
-    [menu.main]
-    parent="smn_workw_machine"
+    [menu.machine]
+
     weight=2
     +++
 
-The `[menu.main]` section refers to navigation defined [in the main Docker menu](https://github.com/docker/docs-base/blob/hugo/config.toml). This metadata says _add a menu item called_ Extending services in machine _to the menu with the_ `smn_workdw_machine` _identifier_.  If you locate the menu in the configuration, you'll find _Create multi-container applications_ is the menu title.
+The `[menu.machine]` section refers to navigation defined [in the main Docker menu](https://github.com/docker/docs-base/blob/hugo/config.toml). This metadata says _add a menu item called_ Extending services in machine _to the menu with the_ `smn_workdw_machine` _identifier_.  If you locate the menu in the configuration, you'll find _Create multi-container applications_ is the menu title.
 
 You can move an article in the tree by specifying a new parent. You can shift the location of the item by changing its weight.  Higher numbers are heavier and shift the item to the bottom of menu. Low or no numbers shift it up.
 

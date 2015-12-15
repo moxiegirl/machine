@@ -3,7 +3,7 @@
 title = "VMware vSphere"
 description = "VMware vSphere driver for machine"
 keywords = ["machine, VMware vSphere, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

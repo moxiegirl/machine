@@ -3,7 +3,7 @@
 title = "Rackspace"
 description = "Rackspace driver for machine"
 keywords = ["machine, Rackspace, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->

@@ -3,7 +3,7 @@
 title = "regenerate-certs"
 description = "Regenerate and update TLS certificates"
 keywords = ["machine, regenerate-certs, subcommand"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_subcmds"
 +++
 <![end-metadata]-->

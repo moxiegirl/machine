@@ -3,7 +3,7 @@
 title = "Generic"
 description = "Generic driver for machine"
 keywords = ["machine, Generic, driver"]
-[menu.main]
+[menu.machine]
 parent="smn_machine_drivers"
 +++
 <![end-metadata]-->
