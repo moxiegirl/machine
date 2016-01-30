@@ -5,7 +5,7 @@ description = "Introduction and Overview of Machine"
 keywords = ["docker, machine, amazonec2, azure, digitalocean, google, openstack, rackspace, softlayer, virtualbox, vmwarefusion, vmwarevcloudair, vmwarevsphere, exoscale"]
 [menu.main]
 identifier="workw_machine"
-weight=-87
+weight=-83
 +++
 <![end-metadata]-->
 
